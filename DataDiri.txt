@@ -3,3 +3,7 @@ nim       : 1829140014
 Kelas     : Tekom B
 kota asal : Makassar
 
+Cita-cita : suka toxic di mobile legend
+
+ipk       : 3.55
+
